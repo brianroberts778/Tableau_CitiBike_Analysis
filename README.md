@@ -2,6 +2,8 @@
 
 Investigating Citi Bike Usage/Performance Metrics by Time of Year (2020-2021)
 
+Tableau Public: https://public.tableau.com/profile/brian.roberts5538#!/?newProfile=&activeTab=0
+
 Introduction:
 
 This report looks to discover areas of under-performance in Citi Bike's central hub, New York City. As the home of our headquarters and the city where the company was founded, it is of great importance that our resources are utilized with the utmost efficiency. The two sets of data examined here include ride data for July of 2020 and January of 2021, as these represent two differing outdoor weather profiles and very important times of year for the company, economically. This report also serves as a point of reference to be followed when reading through the components found within "The Story". 
